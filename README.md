@@ -2,7 +2,7 @@
 
 ## Objective:
 
-## Machine Learning algorithms used:
+## Machine Learning algorithms:
 
 ## Evaluation Criteria:
 
