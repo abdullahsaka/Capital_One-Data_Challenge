@@ -15,3 +15,9 @@ Random Forest, Gradient Boosting and Extreme GradientBoosting (XGBoost)
 ## Evaluation Criteria:
 Accuracy, Precision Score and F-1 score
 
+1.Exploratory Data Analysis - v1.0-EDA.ipynb
+2.Data Processing and Preparation - v1.1-DataProcessing.ipynb 
+3. Modeling and Evaluation - v1.2-Modeling.ipynb
+ 
+!! To execute v1.2-Modeling.ipynb, firstly you have to run v1.1-DataProcessing.ipynb and save processed data.
+
