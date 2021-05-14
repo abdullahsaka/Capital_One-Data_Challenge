@@ -1,2 +1,8 @@
-# Capital_One-Data_Challenge
-Data Science Challenge
+# Fraud Detection Case Study
+
+## Objective:
+
+## Machine Learning algorithms used:
+
+## Evaluation Criteria:
+
